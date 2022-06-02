@@ -1,0 +1,31 @@
+body{
+    
+}
+
+.navbar {
+    padding: 12px;
+    background-color: #712cf9; 
+    color: white;
+}
+
+.d-block.my-1 {
+    margin-right: 5px;
+}
+
+.col-md-8.mx-auto.text-center {
+    margin-top: 38px;
+}
+
+.mb-3.fw-semibold {
+    font-size: 60px;
+}
+
+.lead.mb-4 {
+    font-size: 25px;
+}
+
+.btn.btn-primary.btn-lg{
+    background-color:#712cf9;
+    padding: 15px;
+    margin-right: 5px;
+}
